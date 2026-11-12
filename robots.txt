@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baderbana.github.io/eyar-gold/sitemap.xml
